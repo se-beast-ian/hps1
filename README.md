@@ -7,7 +7,7 @@
 ### HPS1
 
 A collection of solemn utterances ancestring to Captain Haddock (<a href="https://www.tintin.com/">Tin Tin<a/>)  ... conveniently packaged as your bash shell prompt. <br>
-So convenient in fact, that it will 
+So convenient in fact, that it will change on each prompt. This way when something doesn't work right, you have a curse word ready! 
 
 ### Why the need for this
 
@@ -16,11 +16,22 @@ so why not do it in style ?
   
 ### Which style?
   
-  Code fails to compile: <b>Thousands of thundering typhoons! </b> <br>
-  Program crashes: <b> Millions and billions of blue blistering barnacles </b> <br>
-  rm -rvf as sudo: <b> Dictatorial duck-billed diplodocus </b> 
+  Code fails to compile? <b>Thousands of thundering typhoons! </b> <br>
+  Program crashes? <b> Millions and billions of blue blistering barnacles </b> <br>
+  rm -rvf / as sudo? <b> Dictatorial duck-billed diplodocus </b> 
   
+  
+### Installation 
 
+  <ul>
+    <li> Clone the repository and copy <b>haddocks.sh</b> and <b>haddocks.txt</b> into your home directory </li>
+    <li> Copy/Paste <b>if [ -f ~/haddocks.sh ]; then PS1='$(~/haddocks.sh)' fi</b> into your ~/.bashrc config</li>
+  </ul>
+  
+  
+### Project roadmap
+
+At present, the project is in its raw phase. Fo shurr i have make the installation process much better. It's my sunday morning fun project. Don't expect too much of it, but i hope it makes you giggle bit.
 
 
 
