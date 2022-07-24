@@ -10,8 +10,8 @@ A collection of solemn utterances ancestring to Captain Haddock (<a href="https:
 
 ### Why the need for this
 
-Computer code and cursing are intricately related and inseparable. Since cursing is frowned upon - in the best of cases - 
-why not do it in style ? 
+Computer code and cursing are intricately related and inseparable, especially when things go wrong. Not if, when. Cursing is frowned upon - in the best of cases - 
+so why not do it in style ? 
   
 ### Which style?
   
