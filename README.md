@@ -7,7 +7,7 @@
 ### HPS1
 
 A collection of solemn utterances ancestring to Captain Haddock (<a href="https://www.tintin.com/">Tin Tin<a/>)  ... conveniently packaged as your bash shell prompt. <br>
-So convenient in fact, that it will 
+So convenient in fact, that it will change on each prompt. This way when something doesn't work right, you have a course word ready! 
 
 ### Why the need for this
 
