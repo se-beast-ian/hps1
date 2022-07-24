@@ -32,7 +32,7 @@ so why not do it in style ?
   
 ### Project roadmap
 
-At present, the project is in its raw phase. Fo shurr i have make the installation process much better. It's my sunday morning fun project. Don't expect too much of it, but i hope it makes you giggle bit.
+At present, the project is in its raw phase. Fo'shurr i have to make the installation process much better. It's my sunday morning fun project. Don't expect too much of it, but i hope it makes you giggle bit.
 
 
 
