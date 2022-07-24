@@ -6,7 +6,8 @@
 
 ### HPS1
 
-A collection of solemn utterances ancestring to Captain Haddock (<a href="https://www.tintin.com/">Tin Tin<a/>)  ... conveniently packaged as your bash shell prompt.
+A collection of solemn utterances ancestring to Captain Haddock (<a href="https://www.tintin.com/">Tin Tin<a/>)  ... conveniently packaged as your bash shell prompt. <br>
+So convenient in fact, that it will 
 
 ### Why the need for this
 
@@ -17,6 +18,7 @@ so why not do it in style ?
   
   Code fails to compile: <b>Thousands of thundering typhoons! </b> <br>
   Program crashes: <b> Millions and billions of blue blistering barnacles </b> <br>
+  rm -rvf as sudo: <b> Dictatorial duck-billed diplodocus </b> 
   
 
 
