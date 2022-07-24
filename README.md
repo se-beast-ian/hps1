@@ -18,7 +18,8 @@ so why not do it in style ?
   
   Code fails to compile? <b>Thousands of thundering typhoons! </b> <br>
   Program crashes? <b> Millions and billions of blue blistering barnacles </b> <br>
-  rm -rvf / as sudo? <b> Dictatorial duck-billed diplodocus </b> 
+  rm -rvf / as sudo? <b> Dictatorial duck-billed diplodocus </b> <br><br>
+  Demo: https://youtu.be/4L3NLH-bR5Y <br>
   
   
 ### Installation 
