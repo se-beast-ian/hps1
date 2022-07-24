@@ -15,7 +15,9 @@ why not do it in style ?
   
 ### Which style?
   
- 
+  Code fails to compile: <b>Thousands of thundering typhoons! </b> <br>
+  Program crashes: <b> Millions and billions of blue blistering barnacles </b> <br>
+  
 
 
 
