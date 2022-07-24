@@ -16,11 +16,20 @@ so why not do it in style ?
   
 ### Which style?
   
-  Code fails to compile: <b>Thousands of thundering typhoons! </b> <br>
-  Program crashes: <b> Millions and billions of blue blistering barnacles </b> <br>
-  rm -rvf as sudo: <b> Dictatorial duck-billed diplodocus </b> 
+  Code fails to compile? <b>Thousands of thundering typhoons! </b> <br>
+  Program crashes? <b> Millions and billions of blue blistering barnacles </b> <br>
+  rm -rvf / as sudo? <b> Dictatorial duck-billed diplodocus </b> 
   
+  
+### Installation 
 
+  <ul>
+    <li> Clone the repository and copy <b>haddocks.sh</b> and <b>haddocks.txt</b> into your home directory </li>
+    <li> Copy/Paste <b>if [ -f ~/haddocks.sh ]; then PS1='$(~/haddocks.sh)' fi</b> into your ~/.bashrc config</li>
+  </ul>
+  
+  
+### Enjoy
 
 
 
