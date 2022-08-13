@@ -28,14 +28,14 @@ so why not do it in style ?
     <li> Clone the repository and copy <b>haddocks.sh</b> and <b>haddocks.txt</b> into your home directory </li>
     <li> Copy/Paste <br>
 
-  ```
+  
     if [ -f ~/haddocks.sh ]; then
         if [ -f ~/haddocks.txt ]; then
             PS1='$(~/haddocks.sh)'
         else
             PS1="Haddocks_not_on$ "
         fi
-    fi```
+    fi
 
 into your ~/.bashrc config
 
