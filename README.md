@@ -26,7 +26,7 @@ so why not do it in style ?
 
 <ul>
     <li> Clone the repository and copy <b>haddocks.sh</b> and <b>haddocks.txt</b> into your home directory </li>
-    <li> Copy/Paste the following code into your ~/.bashrc config file <br>
+    <li> Copy/Paste the following code into your ~/.bashrc config file   </li> 
 
 
     if [ -f ~/haddocks.sh ]; then
@@ -39,7 +39,7 @@ so why not do it in style ?
 
 
 
-    </li>
+
 
 </ul>
 
