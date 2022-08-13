@@ -11,8 +11,8 @@ So convenient in fact, that it will change on each prompt. This way when somethi
 
 ### Why the need for this
 
-Computer code and cursing are intricately related and inseparable, especially when things go wrong. Not if, when. Cursing is frowned upon - in the best of cases -
-so why not do it in style ?
+Picture this: Shared working space; Code fails. You might want to scream something ? Does it start with the letter F ?
+Cursing is frowned upon - in the best of cases - so why not do it in style ?
 
 ### Which style?
 
