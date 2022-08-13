@@ -11,7 +11,7 @@ So convenient in fact, that it will change on each prompt. This way when somethi
 
 ### Why the need for this
 
-Picture this: Shared working space; Code fails. You might want to scream something ? Does it start with the letter F ?
+Picture this: Shared working space; Code fails. You might want to scream something ?
 Cursing is frowned upon - in the best of cases - so why not do it in style ?
 
 ### Which style?
