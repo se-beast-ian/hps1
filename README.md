@@ -24,11 +24,11 @@ so why not do it in style ?
 
 ### Installation
 
-  <ul>
+<ul>
     <li> Clone the repository and copy <b>haddocks.sh</b> and <b>haddocks.txt</b> into your home directory </li>
-    <li> Copy/Paste <br>
+    <li> Copy/Paste the following code into your ~/.bashrc config file <br>
 
-  
+
     if [ -f ~/haddocks.sh ]; then
         if [ -f ~/haddocks.txt ]; then
             PS1='$(~/haddocks.sh)'
@@ -37,12 +37,11 @@ so why not do it in style ?
         fi
     fi
 
-into your ~/.bashrc config
 
 
     </li>
 
-  </ul>
+</ul>
 
 
 ### Project roadmap
