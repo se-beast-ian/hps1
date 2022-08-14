@@ -23,7 +23,7 @@ Cursing is frowned upon - in the best of cases - so why not do it in style ?
 
 ### Demo
 
-  <img src="./haddocks.gif" width="40" height="40" />
+  <img src="./haddocks.gif" width="250" height="250" />
 
 ### Installation
 
