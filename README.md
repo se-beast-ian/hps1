@@ -19,8 +19,11 @@ Cursing is frowned upon - in the best of cases - so why not do it in style ?
   Code fails to compile? <b>Thousands of thundering typhoons! </b> <br>
   Program crashes? <b> Millions and billions of blue blistering barnacles </b> <br>
   rm -rvf / as sudo? <b> Dictatorial duck-billed diplodocus </b> <br><br>
-  Demo: https://youtu.be/4L3NLH-bR5Y <br>
 
+
+### Demo
+
+  <img src="../haddocks.gif" width="40" height="40" />
 
 ### Installation
 

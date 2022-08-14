@@ -118,7 +118,7 @@ Filibuster
 Filibusterer
 Flaming Jack-in-the-Box
 Fourlegged Cyrano
-Freshwater pirate SU24
+Freshwater pirate
 Freshwater swabs
 Fuzzy-wuzzy
 Freshwaterpoliticians
@@ -164,7 +164,7 @@ Idiots
 Ignoramus
 Incompetents
 Insect
-Interplanetary goat you EM2
+Interplanetary goat you
 Interplanetary Pirates
 Invertebrate
 Jackanapes
@@ -240,7 +240,6 @@ mountebanks
 Pithecanthropic pickpocket
 Pithecanthropic pockmark
 Pithecanthropuses
-SU24
 Pockmarks
 Politician
 Poltroons
