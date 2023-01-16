@@ -12,7 +12,7 @@ So convenient in fact, that it will change on each prompt. This way when somethi
 ### Why the need for this
 
 Picture this: Shared working space; Code fails. You might want to scream something ? <br>
-Cursing is frowned upon - in the best of cases - so why not do it in style ?
+Cursing is frowned upon - in the best of cases - so why not do it with style ?
 
 ### Which style?
 
